@@ -1,3 +1,4 @@
 1. scp <filename> <userName>@<serverName>:<pathInsideServer> (this command for upload some file to server and after trigger this function you need write your pass)
 2. ssh <userName>@<serverName> (this is for ssh (remote) for access to server )
 3. htop (this is show your monitor in linux server)
+4. scp -P <port>(e.g: 2222) <fileName>(e.g: _obj_30dac3a224f7b783cf8a3c76876ed8a4.jpg) <userName>(e.g: banico)@<host>(eg: 79.175.166.42):<path>(e.g: /var/www/html/client_web_second/public/contents/sliders/)
